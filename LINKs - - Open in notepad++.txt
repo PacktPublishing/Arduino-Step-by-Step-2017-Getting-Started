@@ -1,0 +1,132 @@
+LINKS: - -
+
+Section 1: - https://learn.txplore.com/p/asbs-gs-parts-tools
+
+Section 2: - 
+https://store.arduino.cc/usa/arduino-uno-rev3
+https://en.wikipedia.org/wiki/Communication_protocol
+https://en.wikipedia.org/wiki/Floating_ground
+https://www.txplore.com/blog/13592/pullupdownresistors
+https://www.arduino.cc/en/Tutorial/PWM
+
+Section 3: - Introduction to communications
+https://store.arduino.cc/usa/arduino-uno-rev3
+https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter
+https://www.arduino.cc/en/Reference/SoftwareSerial
+https://store.arduino.cc/usa/arduino-uno-rev3
+https://en.wikipedia.org/wiki/I%C2%B2C
+https://en.wikipedia.org/wiki/Bus_(computing)
+https://www.arduino.cc/en/Reference/Wire
+https://en.wikipedia.org/wiki/Duplex_(telecommunications)
+
+Section 4 - - Arduino boards
+https://store.arduino.cc/usa/arduino-uno-rev3
+https://store.arduino.cc/usa/arduino-mega-2560-rev3
+https://en.wikipedia.org/wiki/Digital-to-analog_converter
+https://store.arduino.cc/usa/arduino-pro-mini
+https://www.particle.io/cellular/
+https://www.freetronics.com.au/products/leostick#.XATOidszaUk
+https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de
+http://www.nodemcu.com/index_en.html
+https://en.wikipedia.org/wiki/ESP8266
+
+Section 5 - - Prototyping basics
+https://en.wikipedia.org/wiki/Multimeter
+https://en.wikipedia.org/wiki/Electric_current#Reference_direction
+https://en.wikipedia.org/wiki/Ammeter
+https://en.wikipedia.org/wiki/Solder
+http://www.science.smith.edu/~jcardell/Courses/EGR328/Readings/Soldering%20Guide.pdf
+
+Section 6 - - The Arduino IDE
+https://www.arduino.cc/en/Serial/Read
+
+Section 7 - - Introduction to Arduino programming
+https://www.arduino.cc/reference/en/language/functions/time/millis/
+https://www.arduino.cc/reference/en/language/structure/sketch/setup/
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+https://www.arduino.cc/reference/en/language/structure/control-structure/if/
+https://www.arduino.cc/reference/en/language/structure/control-structure/else/
+https://www.arduino.cc/reference/en/language/structure/control-structure/while/
+https://www.arduino.cc/reference/en/language/structure/control-structure/for/
+https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/
+https://www.arduino.cc/reference/en/
+https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/
+https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/
+https://www.arduino.cc/reference/en/language/functions/time/delay/
+https://www.txplore.com/blog/13592/pullupdownresistors
+https://en.wikipedia.org/wiki/Relational_operator
+https://en.wikipedia.org/wiki/Potentiometer
+https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/
+https://www.arduino.cc/en/Tutorial/PWM
+https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/
+https://www.arduino.cc/reference/en/language/functions/math/map/
+https://en.wikipedia.org/wiki/Light-emitting_diode#RGB
+https://www.arduino.cc/reference/en/language/variables/constants/constants/
+https://www.arduino.cc/reference/en/language/structure/further-syntax/define/
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0300_-_RGB_blink/_0300_-_RGB_blink.ino
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0300_-_RGB_combine/_0300_-_RGB_combine.ino
+https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/
+https://en.wikipedia.org/wiki/Class_(computer_programming)
+https://github.com/bportaluri/ALA
+https://www.arduino.cc/reference/en/
+
+Section 8 - - Measuring light and color
+https://en.wikipedia.org/wiki/Voltage_divider
+https://docs.google.com/spreadsheets/d/1U4fX1gv7U2Is3C7FE_dCmhFSCrBMLUqpa-CpYUxItxU/edit#gid=0
+https://en.wikipedia.org/wiki/Photoresistor
+https://en.wikipedia.org/wiki/Ultraviolet
+https://www.adafruit.com/product/1918
+https://www.epa.gov/sunsafety/uv-index-scale-1
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0410_-_UV_Sensor_-_1/_0410_-_UV_Sensor_-_1.ino
+https://www.livescience.com/46701-andes-highest-uv-index-measured.html
+https://cdn-shop.adafruit.com/datasheets/TCS34725.pdf
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0420_-_RGB_light_sensor_-_2/_0420_-_RGB_light_sensor_-_2.ino
+https://en.wikipedia.org/wiki/Gamma_correction
+
+Section 9 - - Measuring temperature, humidity and pressure
+https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf
+https://en.wikipedia.org/wiki/Relative_humidity
+https://www.txplore.com/blog/13592/pullupdownresistors
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0430_-_DHT22/_0430_-_DHT22.ino
+https://github.com/adafruit/DHT-sensor-library
+https://en.wikipedia.org/wiki/Heat_index
+https://en.wikipedia.org/wiki/Thermistor
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0440_-_Termistor/_0440_-_Termistor.ino
+http://www.webmath.com/equline1.html
+https://github.com/panStamp/thermistor
+https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf
+https://en.wikipedia.org/wiki/Linear_equation
+http://ww1.microchip.com/downloads/en/DeviceDoc/25095A.pdf
+https://www.binaryhexconverter.com/binary-to-hex-converter
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/i2c_scanner/i2c_scanner.ino
+
+Section 10 - - Detecting acceleration
+https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf
+https://en.wikipedia.org/wiki/Voltage_regulator
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0520_-_Acceleration_ADXL335_-_1/_0520_-_Acceleration_ADXL335_-_1.ino
+
+
+Section 11 - - Detecting objects with the infrared motion sensor
+https://en.wikipedia.org/wiki/Passive_infrared_sensor
+https://en.wikipedia.org/wiki/Absolute_zero
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0500_-_Infrared_Sensor_1/_0500_-_Infrared_Sensor_1.ino
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0500_-_Infrared_Sensor_2/_0500_-_Infrared_Sensor_2.ino
+
+Section 12 - - Sensing distance
+https://en.wikipedia.org/wiki/Ultrasound
+https://en.wikipedia.org/wiki/Ultrasonic_transducer
+https://docs.google.com/document/d/1Y-yZnNhMYy7rwhAgyL_pfa39RsB-x2qR4vP8saG73rE/edit
+https://en.wikipedia.org/wiki/Oscilloscope
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0510_-_Ultrasonic_Distance_Sensor/_0510_-_Ultrasonic_Distance_Sensor.ino
+https://www.arduino.cc/reference/en/language/functions/advanced-io/pulsein/
+
+Section 13 - - Sensing sound
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0560_-_Analog_microphone/_0560_-_Analog_microphone.ino
+https://en.wikipedia.org/wiki/Signal_processing
+https://en.wikipedia.org/wiki/Audio_signal_processing
+https://en.wikipedia.org/wiki/Loudness
+
+Section 15 - - The Liquid Crystal Display
+https://www.microchip.com/
+https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0710_-_LCD_I2C/_0710_-_LCD_I2C.ino
+
